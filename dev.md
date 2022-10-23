@@ -1,6 +1,10 @@
-[x] Make the userspace design first and then create interfaces based on that
+~~Make the userspace design first and then create interfaces based on that~~
 
 [] Use github tasks or something similar for tracking.
+
+[] What are all the options that I want to support in the first use-case?
+
+[] Different pip installs for different use-cases, with or without progress for example
 
 [] AnyIO
 
